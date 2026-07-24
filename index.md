@@ -11,16 +11,17 @@ I hold a dual Bachelor's degree in Applied Mathematics and Economics & Statistic
 
 ## Research Interests
 
-- **Prediction Models:** developing clinical prediction models for disease risk and outcomes
+- **Prediction Models:** developing AI models for disease risk and outcomes prediction 
 - **Epidemiology:** pharmacoepidemiology of non-communicable diseases; psychiatric epidemiology
-- **Real-World Evidence (RWE):** using real-world data (e.g., electronic health records, population-based cohorts) to generate evidence for clinical decision-making
+- **Real-World Evidence:** using real-world data (e.g., electronic health records, population-based cohorts) to generate evidence for clinical decision-making
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July 2026]** Our paper on telehealth utilization is published in *JACC: Advances*.
+- **[July 2026]** Started a new position as Research Assistant (Data Analyst) in the Department of Family Medicine and Primary Care, The University of Hong Kong.
+- **[June 2026]** Our paper on digital health technology is published in *JAMIA*.
+- **[September 2025]** Started a new position as Research Assistant in the School of Public Health, The University of Hong Kong.
+- **[March 2025]** Started a new position as Medical Data Analyst at Guangzhou AID Cloud Technology.
 
 {% include_relative _includes/publications.md %}
 
