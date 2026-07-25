@@ -5,16 +5,14 @@ main:
     conference_short: JACC Adv
     conference: <strong>JACC: Advances</strong>, 2026.
     pdf: https://www.jacc.org/doi/10.1016/j.jacadv.2026.102888
-    # bibtex: [optional — link to a .txt/.bib citation]
-    # notes:
+
 
   - title: Digital health technology burden and frustration among patients with multimorbidity
     authors: <strong>Haoxin Chen</strong>, Jiancheng Ye
     conference_short: JAMIA
     conference: <strong>Journal of the American Medical Informatics Association</strong>, 2026.
     pdf: https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag090/8713762?searchresult=1
-    # bibtex:
-    # notes:
+
 
 
   #   # Example
