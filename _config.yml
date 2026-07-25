@@ -9,6 +9,9 @@ email: conniechen24@outlook.com
 keywords: Haoxin Chen, Connie Chen, University of Hong Kong, health informatics, epidemiology
 description: Academic personal homepage by Haoxin (Connie) Chen.
 canonical: https://hxcconnie-star.github.io/
+plugins:
+  - jekyll-sitemap
+url: https://hxcconnie-star.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
