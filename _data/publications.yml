@@ -1,22 +1,30 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Telehealth Utilization and Patient Experiences: Patterns of Social Determinants of Health Among Individuals With Hypertension and Diabetes
+    authors: <strong>Haoxin Chen</strong>, Will Simmons, Malak Abu Hashish, and Jiancheng Ye
+    conference_short: JACC Adv
+    conference: <strong>JACC: Advances</strong>, 2026.
+    pdf: https://www.jacc.org/doi/10.1016/j.jacadv.2026.102888
+    # bibtex: [optional — link to a .txt/.bib citation]
+    # notes:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Digital health technology burden and frustration among patients with multimorbidity
+    authors: <strong>Haoxin Chen</strong>, Jiancheng Ye
+    conference_short: JAMIA
+    conference: <strong>Journal of the American Medical Informatics Association</strong>, 2026.
+    pdf: https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocag090/8713762?searchresult=1
+    # bibtex:
+    # notes:
+
+
+  #   # Example
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/ /https://bib.yliu.me/MICCAI23.txt
+  #   notes: Oral Presentation/Early Accept
+  #   image: ./assets/img/teaser_example.png
