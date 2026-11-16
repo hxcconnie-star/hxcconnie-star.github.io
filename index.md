@@ -14,13 +14,14 @@ I hold a dual Bachelor's degree in Applied Mathematics and Economics & Statistic
 ## Research Interests
 
 - **Predictive Modeling:** developing AI/ML-based models for disease risk prediction and clinical outcome forecasting, with attention to model generalizability and clinical utility
-- **Pharmacoepidemiology:** studying medication utilization, safety, and effectiveness for non-communicable diseases (e.g., hypertension, diabetes) using large-scale population cohorts
+- **Pharmacoepidemiology:** studying medication utilization, safety, and effectiveness for non-communicable diseases (e.g., hypertension, diabetes) on large-scale population cohorts
 - **Psychiatric Epidemiology:** investigating mental health outcomes and risk factors, with prior work focused on youth populations
 - **Real-World Evidence (RWE):** using real-world data, such as electronic health records and population-based cohorts, to generate evidence that informs clinical and health policy decision-making
 
 
 ## News
 
+- **[November 2026]** Our paper on biomarker-based phenotyping HF is preprinted on *medRxiv*.
 - **[July 2026]** Our paper on hypertension trajectory is preprinted on *medRxiv*.
 - **[July 2026]** Our paper on telehealth utilization is published in *JACC: Advances*.
 - **[July 2026]** Starting a new position as Research Assistant (Data Analyst).
